@@ -1,6 +1,9 @@
-<div style="position :relative"> 
+<div style="position: relative;
+    background-color: #222222;
+    border-radius: 8px;
+    padding-left: 24px;"> 
 <a  fs-copyclip-element="click" href="#" class="c-copied"> 
-<img src="https://assets.website-files.com/613b36b7b5bd59300583bf05/613b59df149cb68974dbdf7c_clone.svg" style="padding:0px;"> 
+<img src="https://assets.website-files.com/613b36b7b5bd59300583bf05/613b59df149cb68974dbdf7c_clone.svg" style="padding: 0px !important;"> 
 </a> <pre><code fs-codehighlight-element="code" fs-copyclip-element="copy-sibling" class="language-csharp">
  
 [YOUR CODE HERE]
